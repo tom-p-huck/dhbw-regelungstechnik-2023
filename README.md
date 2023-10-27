@@ -1,7 +1,18 @@
 # DHBW Karlsruhe - Regelungstechnik für Informatiker
 Folien und Lehrmaterialien zur Vorlesung "Regelungstechnik" (TINF32B3) an der Dualen Hochschule Baden-Württemberg (Karlsruhe).
 
-(c) Tom Huck, 2023
+## Inhalte
+0. Einführung
+1. Beschreibung zeitkontinuierlicher Systeme, Teil I (DGL, Blockdiagramm, Sprung- und Impulsantwort)
+2. Parameteridentifikation
+3. Beschreibung zeitkontinuierlicher Systeme, Teil II (Laplace-Transformation, Übertragungsfunktion, Bode-Diagamm, Ortskurve)
+4. Stabilität und weitere Systemeigenschaften
+5. Regler und Reglerentwurf
+6. Beschreibung und Regelung zeitdiskreter Systeme
+7. Fortgeschrittene Regelungsverfahren
+
+Die Vorlesungsfolien werden jeweils nach der Vorlesung hochgeladen.
+
 
 Die hier zur Verfügung gestellten Materialien sind ausschließlich für den persönlichen Gebrauch im Rahmen der Vorlesung bestimmt. Jegliche anderweitige Nutzung und Veröffentlichung erfordert das Einverständnis des Autors. Änderungen und Irrtümer vorbehalten.
-
+(c) Tom Huck, 2023
