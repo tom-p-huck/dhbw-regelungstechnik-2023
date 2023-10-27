@@ -3,4 +3,5 @@ Folien und Lehrmaterialien zur Vorlesung "Regelungstechnik" (TINF32B3) an der Du
 
 (c) Tom Huck, 2023
 
-Die hier zur Verfügung gestellten Materialien sind ausschließlich für den persönlichen Gebrauch im Rahmen der Vorlesung bestimmt. Jegliche anderweitige Nutzung und Veröffentlichung erfordert das Einverständnis des Autors.
+Die hier zur Verfügung gestellten Materialien sind ausschließlich für den persönlichen Gebrauch im Rahmen der Vorlesung bestimmt. Jegliche anderweitige Nutzung und Veröffentlichung erfordert das Einverständnis des Autors. Änderungen und Irrtümer vorbehalten.
+
