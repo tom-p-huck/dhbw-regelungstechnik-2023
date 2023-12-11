@@ -18,6 +18,7 @@ Weiterhin werden zur Prüfungsvorbereitung zur Verfügung gestellt:
 - Ein Probeklausur
 - Eine Altklausur von 2022 mit zugehöriger Musterlösung
 - Selbstchecks (Auflistung wichtigster Kenntnisse nach Vorlesungskapitel, mithilfe derer Sie Ihren Wissensstand besser einschätzen können).
+- Ein Formelblatt (dieses entspricht dem Formelblatt, welches auch in der Klausur ausgegeben wird).
 
 ## Hinweis
 
