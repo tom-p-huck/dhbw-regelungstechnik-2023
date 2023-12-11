@@ -10,8 +10,14 @@ Folien und Lehrmaterialien zur Vorlesung "Regelungstechnik" (TINF32B3) an der Du
 5. Regler und Reglerentwurf
 6. Beschreibung und Regelung zeitdiskreter Systeme
 7. Fortgeschrittene Regelungsverfahren
+8. Übungen
 
 Die Vorlesungsfolien werden jeweils nach der Vorlesung hochgeladen.
+
+Weiterhin werden zur Prüfungsvorbereitung zur Verfügung gestellt:
+- Ein Probeklausur
+- Eine Altklausur von 2022 mit zugehöriger Musterlösung
+- Selbstchecks (Auflistung wichtigster Kenntnisse nach Vorlesungskapitel, mithilfe derer Sie Ihren Wissensstand besser einschätzen können).
 
 ## Hinweis
 
